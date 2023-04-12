@@ -1,0 +1,4 @@
+langchain
+faiss-cpu
+gradio
+PyPDF2
