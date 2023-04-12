@@ -11,10 +11,10 @@ This code is an implementation of a chatbot using OpenAI's language model GPT-3.
 <p>
 To run this code, you need the following libraries:
 </p>
-- langchain
-- PyPDF2
-- gradio
-- pickle
+* langchain
+* PyPDF2
+* gradio
+* pickle
 
 You also need to have an OpenAI API key to access the GPT-3.5 model.
 
