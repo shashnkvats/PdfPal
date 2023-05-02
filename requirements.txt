@@ -2,3 +2,7 @@ langchain
 faiss-cpu
 gradio
 PyPDF2
+openai
+jinja2 
+typing-extentions
+tiktoken
