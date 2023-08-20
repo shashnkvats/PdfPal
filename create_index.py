@@ -34,4 +34,4 @@ docsearch = FAISS.from_texts(texts, embeddings)
 
 
 with open("gpt-4.pkl", 'wb') as f:
-    pickle.dump(embeddings, f)
+    pickle.dump(docsearch, f)
